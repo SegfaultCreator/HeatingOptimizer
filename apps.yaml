@@ -1,0 +1,4 @@
+---
+heizungsoptimierung:
+  module: heizungsoptimierung
+  class: HeizungsOptimierung
